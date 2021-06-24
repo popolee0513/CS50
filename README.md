@@ -1,3 +1,3 @@
 # CS50
-Problem Set Answers
+My own solutions for CS50 problem set
 
