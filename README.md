@@ -1,3 +1,3 @@
-# CS50
-My own solutions for CS50 problem set
+# CS50x
+My own solutions for CS50x 2021 problem set
 
